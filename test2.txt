@@ -1,1 +1,2 @@
 Goodbye! 3
+New line
